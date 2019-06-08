@@ -22,9 +22,16 @@ This is the repository for example [Processing](http://processing.org) code from
 * [dead_horse's Raphael.js port](https://github.com/dead-horse/the-nature-of-code-raphael)([online demo](http://deadhorse.me/the-nature-of-code-raphael/))
 * [edsilv's TypeScript port of examples](https://github.com/edsilv/processing-ts)
 * [Path Following using canvas by roman01la](https://github.com/roman01la/path-following)
+* [hardmaru's paper.js port of box2d physics lib examples](https://github.com/hardmaru/paperjs_box2d)([online demo](http://otoro.net/paperbox/))
+* [mvcrft's port of Adobe After Effects examples](https://github.com/mvcrft/NOC_AE)
+* [ming/playgrd's three.js port](https://github.com/playgrdstar/natureofcode_threejs)
+* [boid-ts Boids with canvas, gl-vec2 and typescript](https://github.com/nkint/boids-ts)
 
-### Other
-* [Clojure / Quil](https://github.com/sjl/The-Nature-of-Code-Examples)
-* [More Clojure / Quil](https://github.com/mudphone/natureofclojure)
+### Ruby
+* [Ruby-processing port](https://github.com/ruby-processing/The-Nature-of-Code-Examples-in-Ruby) for processing-2.2.1
+* [JRubyArt port](https://github.com/ruby-processing/The-Nature-of-Code-for-JRubyArt) for processing-3.0+
 
-
+### Clojure
+* [sjl's Quil port](https://github.com/sjl/The-Nature-of-Code-Examples)
+* [mudphone's Quil port](https://github.com/mudphone/natureofclojure)
+* [Clojure2d port](https://github.com/Clojure2D/clojure2d-examples/tree/master/src/NOC)
